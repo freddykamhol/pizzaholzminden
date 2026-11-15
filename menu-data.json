@@ -1,0 +1,860 @@
+{
+  "categories": [
+    {
+      "slug": "pizzaspezialitaten",
+      "name": "Pizzaspezialitäten"
+    },
+    {
+      "slug": "salate",
+      "name": "Salate"
+    },
+    {
+      "slug": "fleischgerichte",
+      "name": "Fleischgerichte"
+    },
+    {
+      "slug": "snacks",
+      "name": "Snacks"
+    },
+    {
+      "slug": "vegetarische-spezialitaten",
+      "name": "Vegetarische Spezialitäten"
+    },
+    {
+      "slug": "pasta",
+      "name": "Pasta"
+    },
+    {
+      "slug": "gozleme",
+      "name": "Gözleme"
+    },
+    {
+      "slug": "uberbackene-gerichte",
+      "name": "Überbackene Gerichte"
+    },
+    {
+      "slug": "doner",
+      "name": "Döner"
+    },
+    {
+      "slug": "beilagen",
+      "name": "Beilagen"
+    },
+    {
+      "slug": "kaltgetranke",
+      "name": "Getränke"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "1. Pizza Margherita",
+      "description": "Mit Tomatensoße und Käse",
+      "price": "8.50",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 2,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "2. Pizza Mozzarella",
+      "description": "Mit Tomaten, Mozzarella, frischen Tomaten, Basilikum und Käse",
+      "price": "11.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 3,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "3. Pizza Salami",
+      "description": "Mit Tomatensoße, Rindersalami und Käse",
+      "price": "10.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 4,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "4. Pizza Schinken",
+      "description": "Mit Tomatensoße, Truthahnschinken und Käse",
+      "price": "10.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 5,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "5. Pizza Funghi",
+      "description": "Mit Tomatensoße, frischen Pilzen und Käse",
+      "price": "10.50",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 6,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "6. Pizza Tonno",
+      "description": "Mit Tomatensoße, Thunfisch, roten Zwiebeln und Käse",
+      "price": "12.00",
+      "allergens": "Laktose, Fisch, Gluten"
+    },
+    {
+      "id": 7,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "7. Pizza Gemüse",
+      "description": "Mit Tomatensoße, Paprika, frischen Pilzen, Brokkoli, Hirtenkäse, roten Zwiebeln und Oliven",
+      "price": "12.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 8,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "8. Pizza 3 Käse",
+      "description": "Mit Tomatensoße, Mozzarella, Hirtenkäse und Gouda",
+      "price": "12.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 9,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "9. Pizza Diavolo",
+      "description": "Mit Tomatensoße, Salami, scharfe Pepperoni, Zwiebeln und Käse",
+      "price": "11.50",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 10,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "10. Pizza Sucuk",
+      "description": "Mit Tomatensoße, türkischer Knoblauchwurst, Paprika, Jalapeños, roten Zwiebeln und Käse",
+      "price": "12.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 11,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "11. Pizza Mix",
+      "description": "Mit Tomatensoße, Rindersalami, Putenschinken, frischen Pilzen, Paprika und Käse",
+      "price": "12.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 12,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "12. Pizza Hawaii",
+      "description": "Mit Tomatensoße, Putenschinken, Ananas und Käse",
+      "price": "11.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 13,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "13. Pizza Amigo",
+      "description": "Mit Tomatensoße, Putenschinken, Brokkoli, Mais, Hollandaise und Käse",
+      "price": "12.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 14,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "14. Pizza Döner",
+      "description": "Mit Tomatensoße, Dönerfleisch, roten Zwiebeln und Käse",
+      "price": "12.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 15,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "15. Pizza Spinat",
+      "description": "Mit Tomatensoße, Spinat, frischen Tomaten, Knoblauch, Feta-Käse und Käse",
+      "price": "12.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 16,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "16. Pizza Holzminden",
+      "description": "Mit Tomatensoße, Hähnchenbruststreifen, Brokkoli, Mais, frische Paprika, Sauce Hollandaise und Käse",
+      "price": "12.50",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 17,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "17. Pizza Artischocken",
+      "description": "Mit Tomatensoße, Artischocken, Kapern, Mais, frischer Paprika, Oliven und Käse",
+      "price": "11.50",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 18,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "18. Pizza Döner Spezial",
+      "description": "Mit Tomatensoße, Dönerfleisch, Paprika, Brokolli, Hollandaise-Soße",
+      "price": "12.50",
+      "allergens": "Laktose, Gluten, Fisch"
+    },
+    {
+      "id": 19,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "19. Pizza Bombardini",
+      "description": "Mit Tomatensoße, Dönerfleisch, Brokkoli, roten Zwiebeln, Jalapeños und Käse",
+      "price": "12.50",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 20,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "20. Pizza Kastos",
+      "description": "Mit Tomatensoße, Sardellen, Thunfisch, Krabben, Knoblauch und Käse",
+      "price": "12.50",
+      "allergens": "Laktose, Gluten, Fisch, Krustentiere, Weichtiere"
+    },
+    {
+      "id": 21,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "21. Mini Calzone (Frittiert)",
+      "description": "Mit Tomatensoße und Käse",
+      "price": "5.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 22,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "22. Pizzabrot",
+      "description": "Mit Öl und Käse",
+      "price": "4.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 23,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "Döner Calzone",
+      "description": "Mit Tomatensoße, Käse, Dönerfliesch und Zwiebeln",
+      "price": "13.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 24,
+      "category": "Pizzaspezialitäten",
+      "categorySlug": "pizzaspezialitaten",
+      "title": "Schinken-Pilz-Calzone",
+      "description": "mit Tomatensoße, Käse, Schinken und Pilze",
+      "price": "12.50",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 25,
+      "category": "Salate",
+      "categorySlug": "salate",
+      "title": "23. Gemischter Salat",
+      "description": "Eisbergsalat, Tomaten, Gurken, rote Zwiebeln, Oliven und Peperoni",
+      "price": "9.00",
+      "allergens": "Sulfite"
+    },
+    {
+      "id": 26,
+      "category": "Salate",
+      "categorySlug": "salate",
+      "title": "24. Dönersalat",
+      "description": "Eisbergsalat, Tomaten, Dönerfleisch, Oliven und Peperoni",
+      "price": "11.00",
+      "allergens": "Gluten, Laktose, Sulfite"
+    },
+    {
+      "id": 27,
+      "category": "Salate",
+      "categorySlug": "salate",
+      "title": "25. Salat Tonno",
+      "description": "Eisbergsalat, Tomaten, Gurken, Thunfisch, gekochtes Ei, Gouda, Oliven und Peperoni",
+      "price": "11.00",
+      "allergens": "Laktose, Eier, Sulfite, Fisch"
+    },
+    {
+      "id": 28,
+      "category": "Salate",
+      "categorySlug": "salate",
+      "title": "26. Putensalat",
+      "description": "Eisbergsalat, Tomaten, Gurken, rote Zwiebeln, Putenschinken und Oliven",
+      "price": "12.00",
+      "allergens": "Gluten, Laktose, Sulfite"
+    },
+    {
+      "id": 29,
+      "category": "Salate",
+      "categorySlug": "salate",
+      "title": "27. Bauernsalat",
+      "description": "Tomaten, Gurken, Peperoni, rote Zwiebeln, Petersilie, Feta-Käse und Oliven",
+      "price": "11.00",
+      "allergens": "Laktose, Sulfite"
+    },
+    {
+      "id": 30,
+      "category": "Fleischgerichte",
+      "categorySlug": "fleischgerichte",
+      "title": "28. Lammkoteletts 4 St.",
+      "description": "Mit Salat, Pommes oder Reis und Tzatziki.",
+      "price": "25.00",
+      "allergens": "Laktose"
+    },
+    {
+      "id": 31,
+      "category": "Fleischgerichte",
+      "categorySlug": "fleischgerichte",
+      "title": "29. Putensteak 3 St.",
+      "description": "Mit Salat, Pommes oder Reis und Rahmsauce.",
+      "price": "15.00",
+      "allergens": "Gluten, Laktose"
+    },
+    {
+      "id": 32,
+      "category": "Fleischgerichte",
+      "categorySlug": "fleischgerichte",
+      "title": "30. Köfteteller 4 St. (hausgemacht)",
+      "description": "Gehackte Rindfleisch-Köfte, serviert mit Salat und wahlweise Pommes, Reis oder Tzatziki",
+      "price": "14.00",
+      "allergens": "Gluten, Laktose, Eier"
+    },
+    {
+      "id": 33,
+      "category": "Fleischgerichte",
+      "categorySlug": "fleischgerichte",
+      "title": "31. Köfte im Fladenbrot",
+      "description": "Mit Salat, Zwiebeln und wahlweise Tzatziki oder Knoblauchsauce.",
+      "price": "8.00",
+      "allergens": "Gluten, Laktose, Eier"
+    },
+    {
+      "id": 34,
+      "category": "Fleischgerichte",
+      "categorySlug": "fleischgerichte",
+      "title": "32. Mixteller",
+      "description": "2 St. Köfte, 2 St. Lammkoteletts, 1 St. Putensteak mit Salat, Pommes oder Reis und Tzatziki.",
+      "price": "26.00",
+      "allergens": "Gluten, Laktose, Eier"
+    },
+    {
+      "id": 35,
+      "category": "Snacks",
+      "categorySlug": "snacks",
+      "title": "33. Hamburger 80 gr (Hausgemacht)",
+      "description": "Mit roten Zwiebeln, Gurken und Sauce",
+      "price": "6.00",
+      "allergens": "Gluten, Laktose"
+    },
+    {
+      "id": 36,
+      "category": "Snacks",
+      "categorySlug": "snacks",
+      "title": "34. Cheeseburger 80 gr (Hausgemacht)",
+      "description": "Mit Käse, roten Zwiebeln, Gurken und Sauce",
+      "price": "7.00",
+      "allergens": "Gluten, Laktose"
+    },
+    {
+      "id": 37,
+      "category": "Snacks",
+      "categorySlug": "snacks",
+      "title": "35. Chicken Nuggets (6 Stück)",
+      "description": "",
+      "price": "5.00",
+      "allergens": "Gluten, Laktose"
+    },
+    {
+      "id": 38,
+      "category": "Snacks",
+      "categorySlug": "snacks",
+      "title": "36. Chicken Nuggets (9 Stück)",
+      "description": "",
+      "price": "7.00",
+      "allergens": "Gluten, Laktose"
+    },
+    {
+      "id": 39,
+      "category": "Snacks",
+      "categorySlug": "snacks",
+      "title": "37. Pommes",
+      "description": "",
+      "price": "4.00",
+      "allergens": ""
+    },
+    {
+      "id": 40,
+      "category": "Vegetarische Spezialitäten",
+      "categorySlug": "vegetarische-spezialitaten",
+      "title": "40. Gemüseauflauf",
+      "description": "Mit Brokkoli, Paprika, Pilzen und frischen Tomaten, überbacken mit Käse.",
+      "price": "12.00",
+      "allergens": "Laktose"
+    },
+    {
+      "id": 41,
+      "category": "Vegetarische Spezialitäten",
+      "categorySlug": "vegetarische-spezialitaten",
+      "title": "41. Falafelteller",
+      "description": "Mit Salat, Tzatziki und Pommes.",
+      "price": "10.00",
+      "allergens": "Gluten, Laktose"
+    },
+    {
+      "id": 42,
+      "category": "Vegetarische Spezialitäten",
+      "categorySlug": "vegetarische-spezialitaten",
+      "title": "42. Falafel im Fladenbrot",
+      "description": "Mit Salat und wahlweise Tzatziki oder Knoblauchsauce.",
+      "price": "7.00",
+      "allergens": "Gluten, Laktose, Senf"
+    },
+    {
+      "id": 43,
+      "category": "Vegetarische Spezialitäten",
+      "categorySlug": "vegetarische-spezialitaten",
+      "title": "43. Vegetarisches Fladenbrot",
+      "description": "Mit Salat, Käse und wahlweise Tzatziki oder Knoblauchsauce.",
+      "price": "6.00",
+      "allergens": "Gluten, Laktose, Senf"
+    },
+    {
+      "id": 44,
+      "category": "Pasta",
+      "categorySlug": "pasta",
+      "title": "44. Rigatoni Gemüse",
+      "description": "Mit Sahnesoße, Brokkoli, Paprika und Pilzen",
+      "price": "11.00",
+      "allergens": "Laktose, Gluten, Gluten"
+    },
+    {
+      "id": 45,
+      "category": "Pasta",
+      "categorySlug": "pasta",
+      "title": "45. Rigatoni 3-Käse",
+      "description": "Mit Sahnesoße, Gorgonzola, Gouda und Mozzarella",
+      "price": "11.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 46,
+      "category": "Pasta",
+      "categorySlug": "pasta",
+      "title": "46. Rigatoni Hähnchen",
+      "description": "Mit Hähnchenbruststreifen, Brokkoli und Tomaten-Sahnesoße",
+      "price": "12.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 47,
+      "category": "Pasta",
+      "categorySlug": "pasta",
+      "title": "47. Rigatoni Bolognese",
+      "description": "Mit Rinderhackfleischsoße",
+      "price": "10.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 48,
+      "category": "Pasta",
+      "categorySlug": "pasta",
+      "title": "48. Tortellini alla Panna",
+      "description": "Mit Putenschinken und Sahnesoße",
+      "price": "11.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 49,
+      "category": "Pasta",
+      "categorySlug": "pasta",
+      "title": "49. Tortellini Brokkoli",
+      "description": "Mit Brokkoli, Pilzen und Sahnesoße",
+      "price": "11.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 50,
+      "category": "Pasta",
+      "categorySlug": "pasta",
+      "title": "50. Tortellini Bolognese",
+      "description": "Mit Rinderhackfleischsoße",
+      "price": "10.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 51,
+      "category": "Pasta",
+      "categorySlug": "pasta",
+      "title": "51. Spaghetti Bolognese",
+      "description": "Mit Rinderhackfleischsoße",
+      "price": "10.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 52,
+      "category": "Pasta",
+      "categorySlug": "pasta",
+      "title": "52. Spaghetti alla Panna",
+      "description": "Mit Putenschinken, Sahnesoße und Ei",
+      "price": "11.00",
+      "allergens": "Laktose, Gluten"
+    },
+    {
+      "id": 53,
+      "category": "Gözleme",
+      "categorySlug": "gozleme",
+      "title": "53. Gözleme Käse",
+      "description": "Mit Käse und Petersilie",
+      "price": "5.00",
+      "allergens": "Gluten, Laktose"
+    },
+    {
+      "id": 54,
+      "category": "Gözleme",
+      "categorySlug": "gozleme",
+      "title": "54. Gözleme Spinat-Käse",
+      "description": "Mit frischem Spinat, Käse und Petersilie",
+      "price": "6.00",
+      "allergens": "Gluten, Laktose"
+    },
+    {
+      "id": 55,
+      "category": "Gözleme",
+      "categorySlug": "gozleme",
+      "title": "55. Gözleme Kavurma",
+      "description": "Mit gebratenem Fleisch, Käse und Petersilie",
+      "price": "7.00",
+      "allergens": "Gluten, Laktose"
+    },
+    {
+      "id": 56,
+      "category": "Überbackene Gerichte",
+      "categorySlug": "uberbackene-gerichte",
+      "title": "56. Rigatoni Mozzarella",
+      "description": "Rigatoni mit Tomaten-Sahnesoße und Mozzarella überbacken",
+      "price": "12.50",
+      "allergens": "Gluten, Laktose"
+    },
+    {
+      "id": 57,
+      "category": "Überbackene Gerichte",
+      "categorySlug": "uberbackene-gerichte",
+      "title": "57. Rigatoni Brokkoli",
+      "description": "Rigatoni mit Brokkoli, Tomaten-Sahnesoße und Käse überbacken",
+      "price": "12.50",
+      "allergens": "Gluten, Laktose"
+    },
+    {
+      "id": 58,
+      "category": "Überbackene Gerichte",
+      "categorySlug": "uberbackene-gerichte",
+      "title": "58. Tortellini überbacken",
+      "description": "Tortellini mit Putenschinken und Sahnesoße, mit Käse überbacken",
+      "price": "12.50",
+      "allergens": "Gluten, Laktose"
+    },
+    {
+      "id": 59,
+      "category": "Döner",
+      "categorySlug": "doner",
+      "title": "59. Döner im Fladenbrot",
+      "description": "Mit Salat, Weißkraut, Zwiebeln, Tzatziki oder Dip nach Wahl",
+      "price": "8.00",
+      "allergens": "Gluten, Laktose"
+    },
+    {
+      "id": 60,
+      "category": "Döner",
+      "categorySlug": "doner",
+      "title": "60. Döner-Teller",
+      "description": "Mit Salat, Tzatziki, Pommes oder Reis",
+      "price": "15.00",
+      "allergens": "Gluten, Laktose"
+    },
+    {
+      "id": 61,
+      "category": "Döner",
+      "categorySlug": "doner",
+      "title": "61. Döner-Box",
+      "description": "Mit Pommes, Tzatziki oder Dip nach Wahl",
+      "price": "9.00",
+      "allergens": "Gluten, Laktose"
+    },
+    {
+      "id": 62,
+      "category": "Döner",
+      "categorySlug": "doner",
+      "title": "62. Döner überbacken",
+      "description": "Mit Sahnesoße, Tomatensoße, roter Paprika, frischen Tomaten und Pommes",
+      "price": "15.00",
+      "allergens": "Gluten, Laktose"
+    },
+    {
+      "id": 63,
+      "category": "Döner",
+      "categorySlug": "doner",
+      "title": "63. Döner überbacken (Brokkoli)",
+      "description": "Mit Brokkoli, Sahnesoße, Tomatensoße und Pommes",
+      "price": "15.00",
+      "allergens": "Gluten, Laktose"
+    },
+    {
+      "id": 64,
+      "category": "Beilagen",
+      "categorySlug": "beilagen",
+      "title": "70. Tzatziki",
+      "description": "",
+      "price": "3.50",
+      "allergens": ""
+    },
+    {
+      "id": 65,
+      "category": "Beilagen",
+      "categorySlug": "beilagen",
+      "title": "71. Scharfe Soße",
+      "description": "",
+      "price": "3.00",
+      "allergens": ""
+    },
+    {
+      "id": 66,
+      "category": "Beilagen",
+      "categorySlug": "beilagen",
+      "title": "72. Oliven",
+      "description": "",
+      "price": "5.00",
+      "allergens": ""
+    },
+    {
+      "id": 67,
+      "category": "Beilagen",
+      "categorySlug": "beilagen",
+      "title": "73. Pepperoni",
+      "description": "",
+      "price": "5.00",
+      "allergens": ""
+    },
+    {
+      "id": 68,
+      "category": "Beilagen",
+      "categorySlug": "beilagen",
+      "title": "74. Knoblauchsoße",
+      "description": "",
+      "price": "3.50",
+      "allergens": ""
+    },
+    {
+      "id": 69,
+      "category": "Beilagen",
+      "categorySlug": "beilagen",
+      "title": "75. Ketchup",
+      "description": "",
+      "price": "0.50",
+      "allergens": ""
+    },
+    {
+      "id": 70,
+      "category": "Beilagen",
+      "categorySlug": "beilagen",
+      "title": "76. Mayonnaise",
+      "description": "",
+      "price": "0.50",
+      "allergens": ""
+    },
+    {
+      "id": 71,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Wasser 0.33L",
+      "description": "",
+      "price": "2.00",
+      "allergens": ""
+    },
+    {
+      "id": 72,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Wasser 1 Liter",
+      "description": "",
+      "price": "3.50",
+      "allergens": ""
+    },
+    {
+      "id": 73,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Cola 0.33L",
+      "description": "",
+      "price": "2.50",
+      "allergens": ""
+    },
+    {
+      "id": 74,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Cola 1 Liter",
+      "description": "",
+      "price": "3.50",
+      "allergens": ""
+    },
+    {
+      "id": 75,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Fanta 0.33L",
+      "description": "",
+      "price": "2.50",
+      "allergens": ""
+    },
+    {
+      "id": 76,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Fanta 1 Liter",
+      "description": "",
+      "price": "3.50",
+      "allergens": ""
+    },
+    {
+      "id": 77,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Sprite 0.33L",
+      "description": "",
+      "price": "2.50",
+      "allergens": ""
+    },
+    {
+      "id": 78,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Sprite 1 Liter",
+      "description": "",
+      "price": "3.50",
+      "allergens": ""
+    },
+    {
+      "id": 79,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Mezzo Mix 0.33L",
+      "description": "",
+      "price": "2.50",
+      "allergens": ""
+    },
+    {
+      "id": 80,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Mezzo Mix 1 Liter",
+      "description": "",
+      "price": "3.50",
+      "allergens": ""
+    },
+    {
+      "id": 81,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Gazoz (Uludag) 0,33l",
+      "description": "",
+      "price": "2.50",
+      "allergens": ""
+    },
+    {
+      "id": 82,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Gazoz (Uludag) 1 Liter",
+      "description": "",
+      "price": "3.50",
+      "allergens": ""
+    },
+    {
+      "id": 83,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Fritz Kola 0,33l",
+      "description": "",
+      "price": "2.50",
+      "allergens": ""
+    },
+    {
+      "id": 84,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Red Bull 0,25l",
+      "description": "",
+      "price": "2.50",
+      "allergens": ""
+    },
+    {
+      "id": 85,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Eistee 0,33l",
+      "description": "",
+      "price": "2.50",
+      "allergens": ""
+    },
+    {
+      "id": 86,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Becks Lemon (alkoholfrei) 0,33l",
+      "description": "",
+      "price": "3.00",
+      "allergens": ""
+    },
+    {
+      "id": 87,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Café Créme",
+      "description": "",
+      "price": "2.50",
+      "allergens": ""
+    },
+    {
+      "id": 88,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Espresso",
+      "description": "",
+      "price": "2.00",
+      "allergens": ""
+    },
+    {
+      "id": 89,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Cappuccino",
+      "description": "",
+      "price": "3.00",
+      "allergens": ""
+    },
+    {
+      "id": 90,
+      "category": "Getränke",
+      "categorySlug": "kaltgetranke",
+      "title": "Tee",
+      "description": "",
+      "price": "2.00",
+      "allergens": ""
+    }
+  ]
+}
